@@ -7,7 +7,7 @@
         "image": "https://i.ytimg.com/vi/niPkap1ozUA/0.jpg"
       },
       {
-        "src": "/makingmywayremix.mp3",
+        "src": "/makingmyway1.mp3",
         "name": "Making My Way Remix",
         "singer":"JAPAN Remix",
         "image": "https://i.ytimg.com/vi/0a5NRTEhP8A/0.jpg"
@@ -53,6 +53,30 @@
         "name": "Bên Trên Tầng Lầu",
         "singer":"tăng Duy Tân",
         "image": "https://i.ytimg.com/vi/LaxkmhiECfM/0.jpg"
+      },
+          {
+        "src": "/lanman.mp3",
+        "name": "Lan Man",
+        "singer":"Ronboogz",
+        "image": "https://i.ytimg.com/vi/5TcSXaX98pc/0.jpg"
+      },
+      {
+        "src": "/Nothinonme..mp3",
+        "name": "Nothin' on Me",
+        "singer":"Leah Marie Perez ",
+        "image": "https://i.ytimg.com/vi/qmbB3uR92j8/0.jpg"
+      },
+      {
+        "src": "/thoiemdungdi.mp3",
+        "name": "Thôi Em Đừng Đi",
+        "singer":"MCK",
+        "image": "https://i.ytimg.com/vi/9f1u_U3Hvf4/0.jpg"
+      },
+      {
+        "src": "/hoacolau.mp3",
+        "name": "Hoa Cỏ Lau",
+        "singer":"Phong Max",
+        "image": "https://i.ytimg.com/vi/rSso1Z-7ct0/0.jpg"
       }
     ]
   }
