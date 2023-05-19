@@ -1,0 +1,44 @@
+{
+    "mp3": [
+    
+      {
+        "src": "/makingmyway.mp3",
+        "name": "Making My Way",
+        "singer":"Sơn Tùng MTP",
+        "image": "https://i.ytimg.com/vi/niPkap1ozUA/0.jpg"
+      },
+      {
+        "src": "/anhdaonhon.mp3",
+        "name": "Anh Đã Ổn Hơn",
+        "singer":"RPT MCK",
+        "image": "https://i.ytimg.com/vi/dz6xe0xXqYE/0.jpg"
+      },
+      {
+        "src": "/chimotdemnuathoi.mp3",
+        "name": "Chỉ Một Đêm Nữa Thôi",
+        "singer":"RPT MCK",
+        "image": "https://i.ytimg.com/vi/5WkwBKu1le0/0.jpg"
+      },
+      {
+        "src": "/lanman.mp3",
+        "name": "Lan Man",
+        "singer":"Ronboogz",
+        "image": "https://i.ytimg.com/vi/5TcSXaX98pc/0.jpg"
+      },
+      {
+        "src": "/cuonchoanhmotdieu.mp3",
+        "name": "Cuốn Cho Anh Một Điếu",
+        "singer":" RPT MCK",
+        "image": "https://i.ytimg.com/vi/Xa7GFmNRV28/0.jpg"
+      },
+      {
+        "src": "/Nothinonme.mp3",
+        "name": " Nothin' on Me",
+        "singer":"Leah Marie Perez",
+        "image": "https://i.ytimg.com/vi/qmbB3uR92j8/0.jpg"
+      }
+
+    ]
+  }
+
+
