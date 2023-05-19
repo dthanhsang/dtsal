@@ -51,7 +51,7 @@
       {
         "src": "/bentrentanglau.mp3",
         "name": "Bên Trên Tầng Lầu",
-        "singer":"tăng Duy Tân",
+        "singer":"Tăng Duy Tân",
         "image": "https://i.ytimg.com/vi/LaxkmhiECfM/0.jpg"
       },
           {
@@ -76,6 +76,12 @@
         "src": "/hoacolau.mp3",
         "name": "Hoa Cỏ Lau",
         "singer":"Phong Max",
+        "image": "https://i.ytimg.com/vi/rSso1Z-7ct0/0.jpg"
+      }, 
+      {
+        "src": "/there.mp3",
+        "name": "THERE'S NO ONE AT ALL-ZHANG REMIX",
+        "singer":"Sơn Tùng MTP",
         "image": "https://i.ytimg.com/vi/rSso1Z-7ct0/0.jpg"
       }
     ]
